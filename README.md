@@ -4,3 +4,5 @@
 - I’m currently learning Jetpack Compose, and perfecting my grasp of Kotlin.
 - Reach me via kelvinian87@gmail.com
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kev)](https://git.io/streak-stats)
